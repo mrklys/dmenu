@@ -1,0 +1,9 @@
+# Binary Files
+/dmenu
+
+# Object Files
+*.o
+
+# Patch Files
+*.orig
+*.rej
